@@ -38,7 +38,7 @@ def carichi():
 
 def start():
     'Create cards, shuffle them, pick pc1 (3 cards) and briscola, then choose the card to play'
-    global cards,pc1,pc2,briscola,pc1_tbl,pcval
+    global cards,pc1,pc2,briscola,pcval
     cards = [str(num)+color for num in range(1,11) for color in ['♥','♦','♣','♠']]
     pcval = {1:11,2:0,3:10,4:0,5:0,6:0,7:0,8:2,9:3,10:4}   # dictonary for getting cards points    
     shuffle(cards)                                         # mixing cards
@@ -47,6 +47,7 @@ def start():
     pc2 = [cards.pop() for x in range(3)]
     
 def pc1goes():
+    global pc1_tbl
     print()
     print("PC1 cards",pc1,end='')
 
