@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="640px"
+   height="480px"
+   id="svg3006"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="slide2.svg">
+  <defs
+     id="defs3008" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.095627"
+     inkscape:cx="376.71027"
+     inkscape:cy="275.39962"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata3011">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:#ffd700;fill-opacity:0.28235294;fill-rule:nonzero;stroke:#89690f;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91764706;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3047"
+       width="641.64172"
+       height="481.9158"
+       x="0"
+       y="-0.090402924"
+       rx="10.687103"
+       ry="29.294424" />
+    <text
+       xml:space="preserve"
+       style="font-size:82.49980927px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="386.50549"
+       y="116.57454"
+       id="text3014"
+       sodipodi:linespacing="125%"
+       transform="scale(0.79212795,1.2624223)"><tspan
+         sodipodi:role="line"
+         x="386.50549"
+         y="116.57454"
+         id="tspan3036">The tool</tspan></text>
+    <rect
+       style="fill:#d3ad80;fill-opacity:0.28235294;fill-rule:nonzero;stroke:#89690f;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91764706;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3020"
+       width="582.59729"
+       height="260.92892"
+       x="27.644304"
+       y="170.09418"
+       rx="10.687102"
+       ry="29.294422" />
+    <text
+       xml:space="preserve"
+       style="font-size:21.9668293px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="119.12321"
+       y="350.76968"
+       id="text3022"
+       sodipodi:linespacing="125%"
+       transform="scale(0.74298227,1.3459271)"><tspan
+         sodipodi:role="line"
+         x="119.12321"
+         y="350.76968"
+         id="tspan3028">pythonprogs.blogspot.it</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16.49816895px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="547.20221"
+       y="457.28369"
+       id="text3030"
+       sodipodi:linespacing="125%"
+       transform="matrix(0.96364133,0.00133763,-0.00124213,1.0377288,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3032"
+         x="547.20221"
+         y="457.28369">Giovanni Gatto</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:0.28235294;fill-rule:nonzero;stroke:#89690f;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91764706;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3043"
+       sodipodi:sides="5"
+       sodipodi:cx="63.890358"
+       sodipodi:cy="43.720127"
+       sodipodi:r1="44.648682"
+       sodipodi:r2="24.683884"
+       sodipodi:arg1="0.71306083"
+       sodipodi:arg2="1.3413794"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 97.660977,72.927148 69.503714,67.757272 46.548525,84.86336 42.764297,56.486632 19.401897,39.941022 45.220378,27.573116 53.73681,0.24127896 73.477737,20.97422 102.10358,20.627826 88.485664,45.809394 z"
+       inkscape:transform-center-x="3.4838929"
+       inkscape:transform-center-y="-1.3567425"
+       transform="matrix(1.1103629,0,0,1.1617875,16.113139,13.651755)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff0000;fill-opacity:0.28235294;fill-rule:nonzero;stroke:#89690f;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0.91764706;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3045"
+       sodipodi:sides="5"
+       sodipodi:cx="522.98822"
+       sodipodi:cy="47.371006"
+       sodipodi:r1="56.860294"
+       sodipodi:r2="31.435036"
+       sodipodi:arg1="1.2439697"
+       sodipodi:arg2="1.8722882"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 541.24261,101.22145 -27.58887,-23.8333 -36.23942,3.984512 14.14139,-33.603467 -14.9881,-33.234455 36.32873,3.065216 26.97627,-24.5245345 8.311,35.4978745 31.66034,18.077459 -31.19224,18.873677 z"
+       inkscape:transform-center-x="-5.2175625"
+       inkscape:transform-center-y="-0.22257015"
+       transform="translate(25.556143,25.556143)" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="81.232025"
+       y="247.25656"
+       id="text3051"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3053"
+         x="81.232025"
+         y="247.25656">1st - DOWNLOAD Inkscape</tspan><tspan
+         sodipodi:role="line"
+         x="81.232025"
+         y="274.75656"
+         id="tspan3055">2nd - Create something like this slide</tspan><tspan
+         sodipodi:role="line"
+         x="81.232025"
+         y="302.25656"
+         id="tspan3057">3rd - Save the file as svg</tspan><tspan
+         sodipodi:role="line"
+         x="81.232025"
+         y="329.75656"
+         id="tspan3059">4th - Create and save all the slide you need</tspan><tspan
+         sodipodi:role="line"
+         x="81.232025"
+         y="357.25656"
+         id="tspan3061">5th - Create the html file to create the presentation</tspan></text>
+  </g>
+</svg>
