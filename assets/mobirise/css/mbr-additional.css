@@ -832,11 +832,6 @@ pre {
 .cid-qsrU9E5Nc9 .card {
   padding-bottom: 1.5rem;
 }
-.cid-qsm4DXMdyy {
-  padding-top: 120px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/mbr-1438x1080.jpg");
-}
 .cid-qsm5Sw4riR {
   padding-top: 15px;
   padding-bottom: 15px;
@@ -2383,7 +2378,7 @@ pre {
 .cid-qsnTQKzHVl {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #dbd4b8, #25aab2);
+  background-image: url("../../../assets/images/mbr-3-1620x1080.jpg");
 }
 .cid-qsnTQKzHVl .btn {
   margin: 0 0 .5rem 0;
@@ -2425,6 +2420,58 @@ pre {
 }
 .cid-qsnU980SNm .card .panel-body {
   color: #767676;
+}
+.cid-qssgNBiZRF {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qssgNBiZRF .mbr-text {
+  color: #767676;
+}
+.cid-qssgSeC0Da {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #767676;
+  position: relative;
+}
+.cid-qssgSeC0Da .card {
+  border-radius: 0px;
+  margin-bottom: -1px;
+}
+.cid-qssgSeC0Da .card .card-header {
+  border-radius: 0px;
+  border: 0px;
+  padding: 0;
+}
+.cid-qssgSeC0Da .card .card-header a.panel-title {
+  margin-bottom: 0;
+  font-style: normal;
+  font-weight: 500;
+  display: block;
+  text-decoration: none !important;
+  margin-top: -1px;
+  line-height: normal;
+}
+.cid-qssgSeC0Da .card .card-header a.panel-title:focus {
+  text-decoration: none !important;
+}
+.cid-qssgSeC0Da .card .card-header a.panel-title h4 {
+  padding: 1.3rem 2rem;
+  border: 1px solid #dfdfdf;
+  margin-bottom: 0;
+}
+.cid-qssgSeC0Da .card .card-header a.panel-title h4 .sign {
+  padding-right: 1rem;
+}
+.cid-qssgSeC0Da .card .panel-body {
+  color: #767676;
+}
+.cid-qssgSeC0Da .panel-text {
+  color: #ffffff;
+}
+.cid-qssgSeC0Da H2 {
+  color: #efefef;
 }
 .cid-qsm4DXMdyy {
   padding-top: 120px;
