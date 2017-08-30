@@ -1338,9 +1338,7 @@ body {
   min-height: 100vh;
 }
 .cid-qsrU9E5Nc9 {
-  padding-top: 120px;
-  padding-bottom: 15px;
-  background-color: #0f7699;
+  background-image: url("../../../assets/images/ookinglessons-1920x1080.png");
 }
 .cid-qsrU9E5Nc9 .icons-media-container {
   display: flex;
@@ -3176,6 +3174,18 @@ body {
 }
 .cid-qsCFMT8QfS .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-qtHLHphclz {
+  background: #ffffff;
+}
+.cid-qtHLHphclz .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-qtHLHphclz .video-block {
+    width: 100% !important;
+  }
 }
 .cid-qsm3sLbuET {
   padding-top: 30px;
