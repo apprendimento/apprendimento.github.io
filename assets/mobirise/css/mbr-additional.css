@@ -1338,8 +1338,6 @@ body {
   min-height: 100vh;
 }
 .cid-qsrU9E5Nc9 {
-  padding-top: 120px;
-  padding-bottom: 15px;
   background-image: url("../../../assets/images/mbr-1794x1080.jpg");
 }
 .cid-qsrU9E5Nc9 .icons-media-container {
@@ -1368,18 +1366,27 @@ body {
 .cid-qsrU9E5Nc9 H5 {
   color: #e4d295;
 }
+.cid-qAgtpEqV1Z {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qAgtpEqV1Z .mbr-text,
+.cid-qAgtpEqV1Z blockquote {
+  color: #767676;
+}
 .cid-qxrijyp3iB {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/1-1920x1080.png");
+  background-color: #0f7699;
 }
 .cid-qxrijyp3iB H1 {
-  color: #ff3366;
+  color: #ffffff;
 }
 .cid-qxCOmXxFD4 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/1-1920x1080.png");
+  background-color: #073b4c;
 }
 .cid-qxrjGh8l3o {
   background-image: url("../../../assets/images/monte-stella-vista-interna-1024x683.jpg");
@@ -1741,6 +1748,53 @@ body {
     border-top: .30em solid;
     border-right: .30em solid transparent;
     border-left: .30em solid transparent;
+  }
+}
+.cid-qAgK2QFWtR {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qAgK2QFWtR .image-block {
+  margin: auto;
+}
+.cid-qAgK2QFWtR figcaption {
+  position: relative;
+}
+.cid-qAgK2QFWtR figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qAgK2QFWtR .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qAgKl0htMd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
+}
+.cid-qAgK7uOViD {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qAgK7uOViD .image-block {
+  margin: auto;
+}
+.cid-qAgK7uOViD figcaption {
+  position: relative;
+}
+.cid-qAgK7uOViD figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qAgK7uOViD .image-block {
+    width: 100% !important;
   }
 }
 .cid-qsrkgIy8wo .navbar {
@@ -4682,6 +4736,16 @@ body {
 }
 .cid-qsnPDT9iEd .mbr-section-subtitle {
   letter-spacing: .2rem;
+}
+.cid-qsnPDT9iEd .mbr-text,
+.cid-qsnPDT9iEd .mbr-section-btn {
+  text-align: center;
+}
+.cid-qsnPDT9iEd H3 {
+  text-align: center;
+}
+.cid-qsnPDT9iEd H1 {
+  text-align: center;
 }
 .cid-qsURdSPRtZ {
   padding-top: 45px;
