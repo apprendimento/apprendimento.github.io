@@ -1375,6 +1375,63 @@ body {
 .cid-qAgtpEqV1Z blockquote {
   color: #767676;
 }
+.cid-qAgtpEqV1Z .mbr-text P {
+  color: #149dcc;
+}
+.cid-qAgK2QFWtR {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qAgK2QFWtR .image-block {
+  margin: auto;
+}
+.cid-qAgK2QFWtR figcaption {
+  position: relative;
+}
+.cid-qAgK2QFWtR figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qAgK2QFWtR .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qAgKl0htMd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/jumbotron.jpg");
+}
+.cid-qAgK7uOViD {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+}
+.cid-qAgK7uOViD .image-block {
+  margin: auto;
+}
+.cid-qAgK7uOViD figcaption {
+  position: relative;
+}
+.cid-qAgK7uOViD figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qAgK7uOViD .image-block {
+    width: 100% !important;
+  }
+}
+.cid-qAmDtJ1Nz1 {
+  background: linear-gradient(45deg, #fbac7f, #e5658a);
+}
+.cid-qAmDtJ1Nz1 .mbr-section-subtitle {
+  font-style: italic;
+  letter-spacing: 1rem;
+}
 .cid-qxrijyp3iB {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -1748,53 +1805,6 @@ body {
     border-top: .30em solid;
     border-right: .30em solid transparent;
     border-left: .30em solid transparent;
-  }
-}
-.cid-qAgK2QFWtR {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-}
-.cid-qAgK2QFWtR .image-block {
-  margin: auto;
-}
-.cid-qAgK2QFWtR figcaption {
-  position: relative;
-}
-.cid-qAgK2QFWtR figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qAgK2QFWtR .image-block {
-    width: 100% !important;
-  }
-}
-.cid-qAgKl0htMd {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
-.cid-qAgK7uOViD {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-}
-.cid-qAgK7uOViD .image-block {
-  margin: auto;
-}
-.cid-qAgK7uOViD figcaption {
-  position: relative;
-}
-.cid-qAgK7uOViD figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qAgK7uOViD .image-block {
-    width: 100% !important;
   }
 }
 .cid-qsrkgIy8wo .navbar {
